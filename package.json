@@ -1,0 +1,14 @@
+{
+  "name": "derae",
+  "version": "1.0.0",
+  "description": "data formats",
+  "main": "index.js",
+  "repository": "git@github.com:0x00F2/derae.git",
+  "author": "Arne Swanson <atteinmos@0111.click>",
+  "license": "MIT",
+  "dependencies": {
+    "jison": "^0.4.18",
+    "lex": "^1.7.9",
+    "lodash": "^4.17.10"
+  }
+}
